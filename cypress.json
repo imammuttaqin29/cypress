@@ -1,0 +1,4 @@
+{
+    "pageLoadTimeout": 80000,
+    "baseUrl": "https://demoqa.com"
+}
